@@ -11,6 +11,7 @@ We are pleased to announce the open sourcing of the **MoPho-Det** dataset. This 
 - **Total Number of Annotations**: 39,534
   - **Head Annotations**: 29,279
   - **Phone Annotations**: 10,255
+  - **Extend Classification Task Annotations**: 4,079
 
 ### Dataset Features
 
@@ -22,6 +23,27 @@ We are pleased to announce the open sourcing of the **MoPho-Det** dataset. This 
 
 The dataset is available at: [Download Link](https://pan.baidu.com/s/1qq1MkXQIzcvaEe8V8LpQYQ?pwd=dan9)  
 **Access Code**: dan9
+
+## Tasks
+
+This project includes two tasks: **detection task** and **classification task**. For the classification task, an additional table `label.csv` is provided for validating results, allowing comparison of the final classifications with detection results. The `result.csv` and other CSV files serve as examples, which can be used alongside `label.csv` in `calculate_metrics.py` to compute final metrics. The `simple_classify_images.py` script can be utilized to derive classification results from detection outcomes and automatically generate prediction tables.
+
+## License
+
+This dataset is licensed under the [MIT License](LICENSE).
+
+## Contribution
+
+We welcome suggestions, feedback, and code contributions! If you have any questions or suggestions, please submit an issue via GitHub.
+
+## Contact Us
+
+For further information, please contact:
+
+- **Email**: W_ngti_n@foxmail.com
+
+Thank you for your support and interest!
+
 
 ## License
 
