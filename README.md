@@ -22,8 +22,8 @@ We are pleased to announce the open sourcing of the **MoPho-Det** dataset. This 
 
 ## Download and Usage
 
-The dataset is available at: [Download Link](https://pan.baidu.com/s/1qq1MkXQIzcvaEe8V8LpQYQ?pwd=dan9)  
-**Access Code**: dan9
+The dataset is available at: [Download Link](https://pan.baidu.com/s/1_xjDuK9FvhguqoMwjAIlIA?pwd=Mofo)  
+**Access Code**: Mofo
 
 ## Tasks
 
