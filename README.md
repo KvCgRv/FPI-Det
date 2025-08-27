@@ -5,7 +5,7 @@ New Dataset Description Paper is coming soon!**
 
 ## Dataset Overview
 
-![MoPho-Det Example Image](figure_mopho/main.png)
+![MoPho-Det Example Image](/main.png)
 We are pleased to announce the open sourcing of the **MoPho-Det** dataset. This dataset is specifically designed for detecting mobile phone usage behavior from surveillance perspectives.
 
 - **Total Number of Images**: 22,879
