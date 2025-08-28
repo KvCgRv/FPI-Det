@@ -41,23 +41,8 @@ We welcome suggestions, feedback, and code contributions! If you have any questi
 
 For further information, please contact:
 
-- **Email**: W_ngti_n@foxmail.com
-
-Thank you for your support and interest!
-
-
-## License
-
-This dataset is licensed under the [MIT License](LICENSE).
-
-## Contribution
-
-We welcome suggestions, feedback, and code contributions! If you have any questions or suggestions, please submit an issue via GitHub.
-
-## Contact Us
-
-For further information, please contact:
-
 - **Email**: 3296721906@qq.com
 
 Thank you for your support and interest!
+
+
