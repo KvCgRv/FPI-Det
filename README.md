@@ -58,6 +58,6 @@ We welcome suggestions, feedback, and code contributions! If you have any questi
 
 For further information, please contact:
 
-- **Email**: W_ngti_n@foxmail.com
+- **Email**: 3296721906@qq.com
 
 Thank you for your support and interest!
