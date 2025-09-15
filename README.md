@@ -1,7 +1,7 @@
 # MoPho-Det
 
 **Dataset for Mobile Phone Usage Behavior Detection. The Original Dataset Description is from [DataFountain Competition 506](https://www.datafountain.cn/competitions/506). 
-New Dataset Description Paper is coming soon!**
+New Dataset Description Paper is at (https://arxiv.org/abs/2509.09111)
 
 ## Dataset Overview
 
