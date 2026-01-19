@@ -1,7 +1,7 @@
 # 🎉 Congratulations! 🎉
 **The FPI-DET paper has been published at ICASSP 2026!** 📄✨
 
-# MoPho-Det
+# FPI-Det
 
 **Dataset for Mobile Phone Usage Behavior Detection. The Original Dataset Description is from [DataFountain Competition 506](https://www.datafountain.cn/competitions/506). 
 New Dataset Description Paper is at (https://arxiv.org/abs/2509.09111)
@@ -9,7 +9,7 @@ New Dataset Description Paper is at (https://arxiv.org/abs/2509.09111)
 ## Dataset Overview
 
 ![MoPho-Det Example Image](/fpi_main_pic.png)
-We are pleased to announce the open sourcing of the **MoPho-Det** dataset. This dataset is specifically designed for detecting mobile phone usage behavior from surveillance perspectives.
+We are pleased to announce the open sourcing of the **FPI-Det** dataset. This dataset is specifically designed for detecting mobile phone usage behavior from surveillance perspectives.
 
 - **Total Number of Images**: 22,879
 - **Total Number of Annotations**: 39,534
