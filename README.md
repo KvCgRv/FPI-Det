@@ -28,7 +28,7 @@ We are pleased to announce the open sourcing of the **FPI-Det** dataset. This da
 The dataset is available at: [Baidu Netdisk](https://pan.baidu.com/s/1_xjDuK9FvhguqoMwjAIlIA?pwd=Mofo)  
 **Access Code**: `Mofo`
 
-Or via [Google Drive](https://drive.google.com/file/d/1Heb2N4hRcJH2s9tLdpTzacSj0APbUDdD/view?usp=sharing) (please make sure you are logged into Google).
+Or via [Google Drive](https://drive.google.com/file/d/1nObrvOSJfj2dzRcW9cGdV6yu6iurWcVo/view?usp=sharing) (please make sure you are logged into Google).
 
 
 ## Tasks
